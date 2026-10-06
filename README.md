@@ -1,2 +1,6 @@
-# Criando-Database
-### Primeira ação é se conecta ao banco loja.db
+# Criando Data Base
+### Conecte-se ao banco loja.db
+### Crie uma tabela produtos com os campos id, nome, preco
+### Insira 3 produtos diferentes
+### Liste todos os produtos cadastrados
+
